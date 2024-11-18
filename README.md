@@ -9,10 +9,15 @@ This project collects and analyses the factors that lead to employee attrition a
 1 Education ('Below College', 'College','Bachelor','Master','Doctor')
   
 2 EnvironmentSatisfaction ('Low','Medium', 'High','Very High') 
+
 3 JobInvolvement ('Low', 'Medium' ,'High', 'Very High')
+
 4 JobSatisfaction ('Low','Medium','High','Very High')
+
 5 PerformanceRating ('Low','Good','Excellent','Outstanding')
+
 6 RelationshipSatisfaction ('Low','Medium','High','Very High')
+
 7 WorkLifeBalance ('Bad','Good','Better','Best')
 
 ## Project Objectives
