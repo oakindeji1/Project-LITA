@@ -18,7 +18,7 @@ This project collects and analyses the factors that lead to employee attrition a
 
 6 RelationshipSatisfaction ('Low','Medium','High','Very High')
 
-7 WorkLifeBalance ('Bad','Good','Better','Best')
+7 WorkLifeBalance ('Bad','Good','Better','Best') etc
 
 ## Project Objectives
 This project was designed to address the following analysis goals:
