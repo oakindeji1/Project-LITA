@@ -52,7 +52,7 @@ Conditional Formatting can visually highlight satisfaction levels across differe
 - Pivot and filter by Attrition to see if shorter tenures correlate with higher turnover.
 - Use Charts to illustrate the typical career progression (e.g., time between promotions or average years in current role) to help plan development initiatives.
 ## Travel and Work-life Balance Analysis
-###Objective: Evaluate how travel frequency impacts employee satisfaction and attrition.
+### Objective: Evaluate how travel frequency impacts employee satisfaction and attrition.
 ###Approach:
 - Use Pivot Tables to assess BusinessTravel frequency against Attrition and WorkLifeBalance.
 - Analyze the correlation between BusinessTravel and job satisfaction, tenure, or other retention indicators.
