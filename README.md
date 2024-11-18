@@ -7,39 +7,41 @@ This project collects and analyses the factors that lead to employee attrition a
 - The dataset includes the following key columns:
 
 1 Education
-- 'Below College'
+- 'Below College' 
 - 'College'
 - 'Bachelor'
 - 'Master'
 - 'Doctor'
+  
 2 EnvironmentSatisfaction
 - 'Low'
 - 'Medium'
 - 'High'
 - 'Very High'
+  
 3 JobInvolvement
-- 1 'Low'
-- 2 'Medium'
-- 3 'High'
-- 4 'Very High'
+- 'Low'
+- 'Medium'
+- 'High'
+- 'Very High'
 
-JobSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+4 JobSatisfaction
+- 'Low'
+- 'Medium'
+- 'High'
+- 'Very High'
 
-PerformanceRating
-1 'Low'
-2 'Good'
-3 'Excellent'
-4 'Outstanding'
+5 PerformanceRating
+- 'Low'
+- 'Good'
+- 'Excellent'
+- 'Outstanding'
 
-RelationshipSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+6 RelationshipSatisfaction
+ - 'Low'
+ - 'Medium'
+ - 'High'
+ - 'Very High'
 
 WorkLifeBalance
 1 'Bad'
