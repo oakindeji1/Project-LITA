@@ -31,8 +31,8 @@ This project was designed to address the following analysis goals:
 ## Employee Satisfaction and Engagement Insights
 ### Objective: Evaluate levels of job satisfaction, environment satisfaction, and work-life balance.
 ### Approach:
--Use Average and Count functions on satisfaction-related columns (e.g., JobSatisfaction, EnvironmentSatisfaction, WorkLifeBalance).
-Conditional Formatting can visually highlight satisfaction levels across different departments or roles, helping to identify areas where improvements may be needed.
+- Use Average and Count functions on satisfaction-related columns (e.g., JobSatisfaction, EnvironmentSatisfaction, WorkLifeBalance).
+- Conditional Formatting can visually highlight satisfaction levels across different departments or roles, helping to identify areas where improvements may be needed.
 ## Compensation and Benefits Analysis
 ### Objective: Analyze salary distribution and its relationship to job levels, roles, or performance ratings.
 ### Approach:
