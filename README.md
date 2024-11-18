@@ -4,7 +4,7 @@
 This project collects and analyses the factors that lead to employee attrition and explore important questions.
 
 ## Data Collected
-- The dataset includes the following key columns:
+### The dataset includes the following key columns:
 
 1 Education ('Below College', 'College','Bachelor','Master','Doctor')
   
