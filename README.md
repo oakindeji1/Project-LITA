@@ -6,20 +6,18 @@ This project collects and analyses the factors that lead to employee attrition a
 ### Data Collected
 - The dataset includes the following key columns:
 
-#### Education
+1 Education
 - 1 'Below College'
 - 2 'College'
 - 3 'Bachelor'
 - 4 'Master'
 - 5 'Doctor'
-
-### EnvironmentSatisfaction
+2 EnvironmentSatisfaction
 - 1 'Low'
 - 2 'Medium'
 - 3 'High'
 - 4 'Very High'
-
-### JobInvolvement
+3 JobInvolvement
 - 1 'Low'
 - 2 'Medium'
 - 3 'High'
