@@ -67,17 +67,19 @@ This project was designed to address the following analysis goals:
 - Use Scatter Plots to see if there are linear relationships between attrition and key variables like age, income, or years at the company.
 - Use Trendlines in scatter plots to explore the relationship strength, helping you understand potential predictors of attrition.
 
+## Formula Used
+- Age Grouping
+    =CHOOSE(MATCH(A2,{0,19,35,50,65},1),"18 and Under","19-34","35-49","50-64","65 and Over")
+- Attrition Encoded
+     Find and Replace
+- BusinessTravel Encoded
+    =IF($E2="Travel_Rarely", 1, IF($E2="Travel_Frequently", 2, IF($E2="Non-Travel", 3,"")))
+- Education
+    =SWITCH(TRUE(),K2=1,"Below College",K2<=2,"College",K2=3,"Bachelor",K2=4, "Master","Doctor")
+- JobInvolvement, JobSatisfaction Encoded, Performance Rating, and Relationship Satisfaction
+  =IFS(P2=1,"Low",P2=2,"Medium",P2=3,"High",P2=4,"Very High",TRUE," ")
 
-How to Use the Data
-Revenue by Region: Group the data by region and sum the revenue column. This provides an overview of how much revenue each region is generating.
-
-Units Sold by Region: Group the data by region and sum the units sold to identify which regions are moving the most products.
-
-Average Revenue by Region: To get the average revenue per transaction or unit sold in a region, use the formula:
-
-Formula Used
-Average Revenue = Total Revenue / Units Sold
-Tools and Methods Used
+## Tools and Methods Used
 Data Analysis: The data was analyzed using Microsoft Excel, utilizing Pivot Tables to organize, summarize, and filter the data for easier interpretation.
 
 Data Visualization: Bar Charts were created in Excel to visually represent the key insights.
