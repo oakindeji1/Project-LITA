@@ -88,6 +88,11 @@ This project was designed to address the following analysis goals:
     =IFS(P2=1,"Low",P2=2,"Medium",P2=3,"High",P2=4,"Very High",TRUE," ")
 
 ## Tools and Methods Used
-Data Analysis: The data was analyzed using Microsoft Excel, utilizing Pivot Tables to organize, summarize, and filter the data for easier interpretation.
+- Data Analysis: The data was analyzed using Microsoft Excel, utilizing Pivot Tables to organize, summarize, and filter the data for easier interpretation.
 
-Data Visualization: Bar Charts were created in Excel to visually represent the key insights.
+- Data Visualization: Bar Charts were created in Excel to visually represent the key insights.
+
+## Action Performed
+
+- I put my data into a Table, removed all the formulaes by pasting real values and added it to a data model.
+- I noticed my pivot Table was showing blank whereas i do not have any blank row; Solution applied was clean(trim(Cell))
