@@ -100,4 +100,16 @@ This project was designed to address the following analysis goals:
 ## Employee Attrition Analysis
 ```   Formula:
 Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) × 100
+```
+##  Visual Analysis and Inference
+###  Employee Attrition Analysis
+Year Last	Count of Attrition
+Yes	237
+	
+![image](https://github.com/user-attachments/assets/bca9530c-ad83-48cf-bc17-16a1b921f4ac)
+
+
+
+
+
 
