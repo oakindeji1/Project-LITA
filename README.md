@@ -96,3 +96,8 @@ This project was designed to address the following analysis goals:
 
 - I put my data into a Table, removed all the formulaes by pasting real values and added it to a data model.
 - I noticed my pivot Table was showing blank whereas i do not have any blank row; Solution applied was clean(trim(Cell))
+
+## Employee Attrition Analysis
+###  Formula:
+```  Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) × 100
+
