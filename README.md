@@ -99,5 +99,5 @@ This project was designed to address the following analysis goals:
 
 ## Employee Attrition Analysis
 ```   Formula:
-#  Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) × 100
+Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) × 100
 
