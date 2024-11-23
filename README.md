@@ -70,7 +70,7 @@ Attrion	Average of MonthlyIncome	StdDev of MonthlyIncome2
 No		6832.74				4818.21
 Yes		4787.09				3640.21
 ![image](https://github.com/user-attachments/assets/71a394ff-e86b-415b-a93d-33dec95135e1)
-![image](https://github.com/user-attachments/assets/516bf78f-7bae-4970-8b3c-ab34b48f3fc1)
+
 Employees who leave generally have lower monthly income levels compared to those who stay. This suggests that compensation may be a key factor influencing retention.
 
 ### Attrition by Job Satisfaction:
