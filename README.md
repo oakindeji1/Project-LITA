@@ -43,9 +43,9 @@ This project was designed to address the following analysis goals:
 ### Approach:
 - Use Pivot Tables to analyze attrition rates across different departments, job roles, and age.
 -![image](https://github.com/user-attachments/assets/9bc81cc0-1256-4eaa-a9de-a302f4e5f31c)
--![image](https://github.com/user-attachments/assets/a9779997-68e4-4643-bf13-b721af90fd1f)
+![image](https://github.com/user-attachments/assets/a9779997-68e4-4643-bf13-b721af90fd1f)
 -![image](https://github.com/user-attachments/assets/4fcb01a2-f291-4a5b-8abe-b2171c422334)
--![image](https://github.com/user-attachments/assets/14775d4d-e911-46a8-b9a1-4880238f98f7)
+![image](https://github.com/user-attachments/assets/14775d4d-e911-46a8-b9a1-4880238f98f7)
 
 
 
