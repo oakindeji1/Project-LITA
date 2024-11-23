@@ -49,7 +49,7 @@ No	          84%
 Yes	          16%
 ![image](https://github.com/user-attachments/assets/ffc409d8-f042-43f3-89c2-5971139bca6e)
 
-![image width="200" height="100"](https://github.com/user-attachments/assets/f56133d8-ef3d-4b61-aa61-2ff7e1db0c97)
+![image width="50" height="100"](https://github.com/user-attachments/assets/f56133d8-ef3d-4b61-aa61-2ff7e1db0c97)
 
 
 ## Employee Satisfaction and Engagement Insights
