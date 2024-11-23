@@ -57,7 +57,7 @@ This project was designed to address the following analysis goals:
 - Some departments experience higher attrition rates than others. For example, Sales might see more attrition compared to Research & Development, signaling potential areas for targeted retention strategies.
 
 ## Employee Satisfaction and Engagement Insights
-### Objective: Evaluate levels of job satisfaction, environment satisfaction, and work-life balance.
+### Objective: Evaluate levels of job satisfaction, Compensation, and Age Group Analysis
 ### Approach:
 - Use Average and Count functions on satisfaction-related columns (e.g., JobSatisfaction and RelationshipSatisfaction).
 - Conditional Formatting can visually highlight satisfaction levels across different departments or roles, helping to identify areas where improvements may be needed.
