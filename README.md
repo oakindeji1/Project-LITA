@@ -23,11 +23,31 @@ This project collects and analyses the factors that lead to employee attrition a
 ## Project Objectives
 This project was designed to address the following analysis goals:
 
+## Overall Information
+| Total Number of Employees |
+|---------------------------|
+|1470                       |
+| Total Number of Department|
+|---------------------------|
+|3                          |
+                
+| Row Labels Count of Gender|
+|---------------------------|
+|Female	       40%          |
+|Male	       60%          |
+
 ## Employee Attrition Analysis
+
 ### Objective: Identify factors related to employee attrition (i.e., why employees leave).
 ### Approach:
 - Use Pivot Tables to analyze attrition rates across different departments, job roles, and demographics.
 - Calculate attrition percentage by filtering the Attrition column, and then check for patterns based on age, gender, department, and job role.
+
+Row Labels	Attrition Rate
+No	          84%
+Yes	          16%
+![image](https://github.com/user-attachments/assets/ffc409d8-f042-43f3-89c2-5971139bca6e)
+
 ## Employee Satisfaction and Engagement Insights
 ### Objective: Evaluate levels of job satisfaction, environment satisfaction, and work-life balance.
 ### Approach:
