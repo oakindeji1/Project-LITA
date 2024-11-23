@@ -44,17 +44,11 @@ This project was designed to address the following analysis goals:
 - Use Pivot Tables to analyze attrition rates across different departments, job roles, and demographics.
 - Calculate attrition percentage by filtering the Attrition column, and then check for patterns based on age, gender, department, and job role.
 
-Row Labels	Attrition Rate       
-No	          84%
-Yes	          16%
-![image](https://github.com/user-attachments/assets/ffc409d8-f042-43f3-89c2-5971139bca6e)
 
-Count of Attrition	             Age Grouping			
-Row Labels	        18 and Under	19-34	35-49	50-64
-   No	                      0%	 34%	 40%	 10%
-   Yes	                      0%	 10%	 4%	 2%
 ![image](https://github.com/user-attachments/assets/ee9269b7-b470-4a2b-a2bb-ae567c44a9dc)
 ![image](https://github.com/user-attachments/assets/60be8144-720a-412a-ae71-859b2d63c57c)
+![image](https://github.com/user-attachments/assets/8e577193-bd10-4d3e-9fd4-574542c7afe4)
+
 
 
 
