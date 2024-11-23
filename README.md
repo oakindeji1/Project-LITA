@@ -42,29 +42,18 @@ This project was designed to address the following analysis goals:
 ### Objective: Identify factors related to employee attrition (i.e., why employees leave).
 ### Approach:
 - Use Pivot Tables to analyze attrition rates across different departments, job roles, and age.
-  |![image](https://github.com/user-attachments/assets/b5586a74-cc5b-4bbd-a01a-3e58eda2383d)
-  ![image](https://github.com/user-attachments/assets/737ed0fe-ecf7-49d4-be7e-0ecffdf01898)
-  ![image](https://github.com/user-attachments/assets/4fcb01a2-f291-4a5b-8abe-b2171c422334)
-  ![image](https://github.com/user-attachments/assets/14775d4d-e911-46a8-b9a1-4880238f98f7) |  |  |
- 
-- 
--
-
-
-
-
-
-  
 - Calculate attrition percentage by filtering the Attrition column, and then check for patterns based on age, gender, department, and job role.
   
-
-
-
-
-
-
-
-
+## Initial Insights from the Data
+### Overall Attrition Rate:
+- The proportion of employees leaving the organization is noticeable, but the majority are retained. This provides a baseline for further analysis.
+- ![image](https://github.com/user-attachments/assets/4aea4b18-b314-4ebd-a49a-0e6e9cab2b87)
+- Attrition by Gender:
+- ![image](https://github.com/user-attachments/assets/bac4b0fa-8da1-48e4-ba2e-d0090f08b5ae)
+- Male and female employees exhibit slightly different attrition patterns. Exploring further could reveal if certain roles, job levels, or satisfaction metrics contribute to these differences.
+- Attrition by Department:
+![image](https://github.com/user-attachments/assets/05afcf24-5c0a-4e66-bbab-6751a2e3b6ba)
+- Some departments experience higher attrition rates than others. For example, Sales might see more attrition compared to Research & Development, signaling potential areas for targeted retention strategies.
 
 ## Employee Satisfaction and Engagement Insights
 ### Objective: Evaluate levels of job satisfaction, environment satisfaction, and work-life balance.
