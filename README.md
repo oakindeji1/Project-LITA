@@ -60,6 +60,23 @@ This project was designed to address the following analysis goals:
 ### Approach:
 - Use Average and Count functions on satisfaction-related columns (e.g., JobSatisfaction and RelationshipSatisfaction).
 - Conditional Formatting can visually highlight satisfaction levels across different departments or roles, helping to identify areas where improvements may be needed.
+## Insights from Compensation, Satisfaction, and Age Group Analysis
+### Attrition by Age Group:
+![image](https://github.com/user-attachments/assets/feab571c-306a-4e2a-8de2-16178e3f749d)
+Younger employees (e.g., 19-34 age group) exhibit higher attrition rates compared to older employees. This trend may reflect early-career exploration or dissatisfaction with growth opportunities.
+### Attrition and Monthly Income:
+Attrion	Average of MonthlyIncome	StdDev of MonthlyIncome2
+No		6832.74				4818.21
+Yes		4787.09				3640.21
+![image](https://github.com/user-attachments/assets/71a394ff-e86b-415b-a93d-33dec95135e1)
+![image](https://github.com/user-attachments/assets/516bf78f-7bae-4970-8b3c-ab34b48f3fc1)
+Employees who leave generally have lower monthly income levels compared to those who stay. This suggests that compensation may be a key factor influencing retention.
+
+### Attrition by Job Satisfaction:
+![image](https://github.com/user-attachments/assets/6e9e6047-aba8-437a-b570-2c5ac6e5a383)
+Lower job satisfaction levels are associated with higher attrition rates. Employees reporting high or very high satisfaction are less likely to leave, emphasizing the importance of maintaining engagement and morale.
+
+
 ## Compensation and Benefits Analysis
 ### Objective: Analyze salary distribution and its relationship to job levels, roles, or performance ratings.
 ### Approach:
