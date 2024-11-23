@@ -36,14 +36,14 @@ This project was designed to address the following analysis goals:
 ## Compensation and Benefits Analysis
 ### Objective: Analyze salary distribution and its relationship to job levels, roles, or performance ratings.
 ### Approach:
-- Use Charts (e.g., bar charts, box plots) to display MonthlyIncome and HourlyRate distributions.
+- Use Charts (e.g., bar charts) to display MonthlyIncome and HourlyRate distributions.
 - Create Pivot Tables to compare income levels across different JobLevels and JobRoles.
 - Evaluate the StockOptionLevel and PercentSalaryHike columns to see if these factors influence employee retention.
 ## Demographic Analysis
 ### Objective: Understand workforce composition in terms of age, gender, education, and department.
 ### Approach:
 - Generate Demographic Profiles by analyzing columns such as Age, Gender, Education, and Department.
-- Use Charts (e.g., pie charts, histograms) to visualize age distribution and departmental gender ratios.
+- Use Charts (e.g., pie charts) to visualize age distribution and departmental gender ratios.
 - Pivot by EducationField to understand the educational backgrounds of your workforce and how these relate to job roles or satisfaction.
 ## Work Experience and Tenure Analysis
 ### Objective: Assess employee tenure, promotion frequency, and career progression.
