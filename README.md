@@ -47,11 +47,11 @@ This project was designed to address the following analysis goals:
 ## Initial Insights from the Data
 ### Overall Attrition Rate:
 - The proportion of employees leaving the organization is noticeable, but the majority are retained. This provides a baseline for further analysis.
-- ![image](https://github.com/user-attachments/assets/4aea4b18-b314-4ebd-a49a-0e6e9cab2b87)
-- Attrition by Gender:
-- ![image](https://github.com/user-attachments/assets/bac4b0fa-8da1-48e4-ba2e-d0090f08b5ae)
+  ![image](https://github.com/user-attachments/assets/4aea4b18-b314-4ebd-a49a-0e6e9cab2b87)
+### Attrition by Gender:
+  ![image](https://github.com/user-attachments/assets/bac4b0fa-8da1-48e4-ba2e-d0090f08b5ae)
 - Male and female employees exhibit slightly different attrition patterns. Exploring further could reveal if certain roles, job levels, or satisfaction metrics contribute to these differences.
-- Attrition by Department:
+### Attrition by Department:
 ![image](https://github.com/user-attachments/assets/05afcf24-5c0a-4e66-bbab-6751a2e3b6ba)
 - Some departments experience higher attrition rates than others. For example, Sales might see more attrition compared to Research & Development, signaling potential areas for targeted retention strategies.
 
