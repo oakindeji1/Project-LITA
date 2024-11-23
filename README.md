@@ -41,13 +41,14 @@ This project was designed to address the following analysis goals:
 
 ### Objective: Identify factors related to employee attrition (i.e., why employees leave).
 ### Approach:
-- Use Pivot Tables to analyze attrition rates across different departments, job roles, and demographics.
+- Use Pivot Tables to analyze attrition rates across different departments, job roles, and age.
+- ![image](https://github.com/user-attachments/assets/cdd0e08a-c4ff-40fd-b4e4-79a30007aea8)
+  
 - Calculate attrition percentage by filtering the Attrition column, and then check for patterns based on age, gender, department, and job role.
+  
 
 
-![image](https://github.com/user-attachments/assets/ee9269b7-b470-4a2b-a2bb-ae567c44a9dc)
-![image](https://github.com/user-attachments/assets/60be8144-720a-412a-ae71-859b2d63c57c)
-![image](https://github.com/user-attachments/assets/8e577193-bd10-4d3e-9fd4-574542c7afe4)
+
 
 
 
