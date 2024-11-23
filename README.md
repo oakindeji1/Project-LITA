@@ -27,6 +27,7 @@ This project was designed to address the following analysis goals:
 | Total Number of Employees |
 |---------------------------|
 |1470                       |
+
 | Total Number of Department|
 |---------------------------|
 |3                          |
@@ -47,6 +48,9 @@ Row Labels	Attrition Rate
 No	          84%
 Yes	          16%
 ![image](https://github.com/user-attachments/assets/ffc409d8-f042-43f3-89c2-5971139bca6e)
+
+![image](https://github.com/user-attachments/assets/f56133d8-ef3d-4b61-aa61-2ff7e1db0c97)
+
 
 ## Employee Satisfaction and Engagement Insights
 ### Objective: Evaluate levels of job satisfaction, environment satisfaction, and work-life balance.
