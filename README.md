@@ -38,6 +38,7 @@ This project was designed to address the following analysis goals:
 |Female	       40%          |
 |Male	       60%          |
 
+
 ## Employee Attrition Analysis
 
 ### Objective: Identify factors related to employee attrition (i.e., why employees leave).
@@ -46,6 +47,21 @@ This project was designed to address the following analysis goals:
 - Calculate attrition percentage by filtering the Attrition column, and then check for patterns based on age, gender, department, and job role.
   
 ## Initial Insights from the Data
+
+```   Formula:
+Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) × 100
+```
+##  Visual Analysis and Inference
+
+###  Employee Attrition Analysis
+Year Last	Count of Attrition
+Yes	              237
+	
+![image](https://github.com/user-attachments/assets/bca9530c-ad83-48cf-bc17-16a1b921f4ac)
+
+![image](https://github.com/user-attachments/assets/f033285f-e8f8-4404-9c7b-eeef2a540c47)
+
+
 ### Overall Attrition Rate:
 - The proportion of employees leaving the organization is noticeable, but the majority are retained. This provides a baseline for further analysis.
   
@@ -106,8 +122,11 @@ Younger employees (e.g., 19-34 age group) exhibit higher attrition rates compare
 ![image](https://github.com/user-attachments/assets/015530e4-9863-452f-8f2d-59b08453eecc)
 
 ### Attrition by Promotion Frequency:
+
   ![image](https://github.com/user-attachments/assets/6a4b5ea1-b14f-4058-b27d-c2144261274a)
+  
 - If employees promoted within the last five years exhibit higher attrition rates, it suggests that promotion might not necessarily be a factor driving them to leave.
+- 
 ![image](https://github.com/user-attachments/assets/5d004172-11e2-470a-988a-89d86933e886)
 
 
@@ -115,6 +134,7 @@ Younger employees (e.g., 19-34 age group) exhibit higher attrition rates compare
 - Age Grouping
 
     =CHOOSE(MATCH(A2,{0,19,35,50,65},1),"18 and Under","19-34","35-49","50-64","65 and Over")
+  
 - Attrition Encoded
 
     Find and Replace
@@ -132,6 +152,7 @@ Younger employees (e.g., 19-34 age group) exhibit higher attrition rates compare
     =IFS(P2=1,"Low",P2=2,"Medium",P2=3,"High",P2=4,"Very High",TRUE," ")
 
 ## Tools and Methods Used
+
 - Data Analysis: The data was analyzed using Microsoft Excel, utilizing Pivot Tables to organize, summarize, and filter the data for easier interpretation.
 
 - Data Visualization: Bar Charts were created in Excel to visually represent the key insights.
@@ -141,18 +162,7 @@ Younger employees (e.g., 19-34 age group) exhibit higher attrition rates compare
 - I put my data into a Table, removed all the formulaes by pasting real values and added it to a data model.
 - I noticed my pivot Table was showing blank whereas i do not have any blank row; Solution applied was clean(trim(Cell))
 
-## Employee Attrition Analysis
-```   Formula:
-Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) × 100
-```
-##  Visual Analysis and Inference
-###  Employee Attrition Analysis
-Year Last	Count of Attrition
-Yes	237
-	
-![image](https://github.com/user-attachments/assets/bca9530c-ad83-48cf-bc17-16a1b921f4ac)
 
-![image](https://github.com/user-attachments/assets/f033285f-e8f8-4404-9c7b-eeef2a540c47)
 
 
 
