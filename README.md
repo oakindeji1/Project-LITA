@@ -48,18 +48,6 @@ This project was designed to address the following analysis goals:
   
 ## Initial Insights from the Data
 
-```   Formula:
-Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) × 100
-```
-##  Visual Analysis and Inference
-
-###  Employee Attrition Analysis
-Year Last	Count of Attrition
-Yes	              237
-	
-![image](https://github.com/user-attachments/assets/bca9530c-ad83-48cf-bc17-16a1b921f4ac)
-
-![image](https://github.com/user-attachments/assets/f033285f-e8f8-4404-9c7b-eeef2a540c47)
 
 
 ### Overall Attrition Rate:
@@ -131,6 +119,9 @@ Younger employees (e.g., 19-34 age group) exhibit higher attrition rates compare
 
 
 ## Formula Used
+```   Formula:
+Attrition Rate (%) = (Number of Employees Who Left / Total Number of Employees) × 100
+```
 - Age Grouping
 
     =CHOOSE(MATCH(A2,{0,19,35,50,65},1),"18 and Under","19-34","35-49","50-64","65 and Over")
