@@ -50,22 +50,18 @@ This project was designed to address the following analysis goals:
 - The proportion of employees leaving the organization is noticeable, but the majority are retained. This provides a baseline for further analysis.
   
   ![image](https://github.com/user-attachments/assets/4aea4b18-b314-4ebd-a49a-0e6e9cab2b87)
-### Attrition by Gender:
-  ![image](https://github.com/user-attachments/assets/bac4b0fa-8da1-48e4-ba2e-d0090f08b5ae)
-- Male and female employees exhibit slightly different attrition patterns. Exploring further could reveal if certain roles, job levels, or satisfaction metrics contribute to these differences.
+
 ### Attrition by Department:
 ![image](https://github.com/user-attachments/assets/05afcf24-5c0a-4e66-bbab-6751a2e3b6ba)
 - Some departments experience higher attrition rates than others. For example, Sales might see more attrition compared to Research & Development, signaling potential areas for targeted retention strategies.
 
 ## Employee Satisfaction and Engagement Insights
-### Objective: Evaluate levels of job satisfaction, Compensation, and Age Group Analysis
+### Objective: Evaluate levels of job satisfaction and Compensation Analysis
 ### Approach:
 - Use Average and Count functions on satisfaction-related columns (e.g., JobSatisfaction and RelationshipSatisfaction).
 - Conditional Formatting can visually highlight satisfaction levels across different departments or roles, helping to identify areas where improvements may be needed.
-## Insights from Compensation, Satisfaction, and Age Group Analysis
-### Attrition by Age Group:
-![image](https://github.com/user-attachments/assets/feab571c-306a-4e2a-8de2-16178e3f749d)
-Younger employees (e.g., 19-34 age group) exhibit higher attrition rates compared to older employees. This trend may reflect early-career exploration or dissatisfaction with growth opportunities.
+## Insights from Compensation and Satisfaction Analysis
+
 ### Attrition and Monthly Income:
 Attrion	Average of MonthlyIncome	StdDev of MonthlyIncome2
 No		6832.74				4818.21
@@ -78,40 +74,42 @@ Employees who leave generally have lower monthly income levels compared to those
 ![image](https://github.com/user-attachments/assets/6e9e6047-aba8-437a-b570-2c5ac6e5a383)
 Lower job satisfaction levels are associated with higher attrition rates. Employees reporting high or very high satisfaction are less likely to leave, emphasizing the importance of maintaining engagement and morale.
 
-
-## Compensation and Benefits Analysis
-### Objective: Analyze salary distribution and its relationship to job levels, roles, or performance ratings.
-### Approach:
-- Use Charts (e.g., bar charts) to display MonthlyIncome and HourlyRate distributions.
-- Create Pivot Tables to compare income levels across different JobLevels and JobRoles.
-- Evaluate the StockOptionLevel and PercentSalaryHike columns to see if these factors influence employee retention.
 ## Demographic Analysis
-### Objective: Understand workforce composition in terms of age, gender, education, and department.
+### Objective: Understand workforce composition in terms of age, gender, education.
 ### Approach:
 - Generate Demographic Profiles by analyzing columns such as Age, Gender, Education, and Department.
 - Use Charts (e.g., pie charts) to visualize age distribution and departmental gender ratios.
 - Pivot by EducationField to understand the educational backgrounds of your workforce and how these relate to job roles or satisfaction.
+
+  ### Attrition by Age Group:
+![image](https://github.com/user-attachments/assets/feab571c-306a-4e2a-8de2-16178e3f749d)
+Younger employees (e.g., 19-34 age group) exhibit higher attrition rates compared to older employees. This trend may reflect early-career exploration or dissatisfaction with growth opportunities.
+
+### Attrition by Gender:
+  ![image](https://github.com/user-attachments/assets/bac4b0fa-8da1-48e4-ba2e-d0090f08b5ae)
+- Employees with bachelor degrees tends to have a  different attrition patterns which higher. May be they are moving to have a greener pasture.
+  
+### Attrition by Education:
+  ![image](https://github.com/user-attachments/assets/6a4b5ea1-b14f-4058-b27d-c2144261274a)
+- Male and female employees exhibit slightly different attrition patterns. Exploring further could reveal if certain roles, job levels, or satisfaction metrics contribute to these differences.
+  
 ## Work Experience and Tenure Analysis
-### Objective: Assess employee tenure, promotion frequency, and career progression.
+### Objective: Assess employee tenure and promotion frequency.
 ### Approach:
 - Calculate averages for YearsAtCompany, YearsInCurrentRole, YearsSinceLastPromotion, and YearsWithCurrManager to get insights into employee tenure.
 - Pivot and filter by Attrition to see if shorter tenures correlate with higher turnover.
 - Use Charts to illustrate the typical career progression (e.g., time between promotions or average years in current role) to help plan development initiatives.
-## Travel and Work-life Balance Analysis
-### Objective: Evaluate how travel frequency impacts employee satisfaction and attrition.
-### Approach:
-- Use Pivot Tables to assess BusinessTravel frequency against Attrition and WorkLifeBalance.
-- Analyze the correlation between BusinessTravel and job satisfaction, tenure, or other retention indicators.
-## Performance and Productivity Analysis
-### Objective: Examine factors associated with high-performing employees and those who received salary hikes.
-### Approach:
-- Filter by PerformanceRating and use Pivot Tables to analyze the distribution of high ratings across different departments or job roles.
-- Use Correlation Analysis (with Excel’s CORREL function) to examine relationships between PerformanceRating, JobInvolvement, and PercentSalaryHike.
-## Predictive Trend Analysis (Basic)
-### Objective: Identify trends and create basic predictive insights on factors impacting attrition.
-### Approach:
-- Use Scatter Plots to see if there are linear relationships between attrition and key variables like age, income, or years at the company.
-- Use Trendlines in scatter plots to explore the relationship strength, helping you understand potential predictors of attrition.
+
+### Attrition by Employee Tenure:
+  ![image](https://github.com/user-attachments/assets/6a4b5ea1-b14f-4058-b27d-c2144261274a)
+- It was observed that employees with more than 10 years of service exhibit slightly different attrition patterns. In contrast, those with 1 to 10 years of tenure may not have fully established their footing within the organization, potentially leading to higher attrition rates.
+![image](https://github.com/user-attachments/assets/015530e4-9863-452f-8f2d-59b08453eecc)
+
+### Attrition by Promotion Frequency:
+  ![image](https://github.com/user-attachments/assets/6a4b5ea1-b14f-4058-b27d-c2144261274a)
+- If employees promoted within the last five years exhibit higher attrition rates, it suggests that promotion might not necessarily be a factor driving them to leave.
+![image](https://github.com/user-attachments/assets/5d004172-11e2-470a-988a-89d86933e886)
+
 
 ## Formula Used
 - Age Grouping
