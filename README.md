@@ -153,6 +153,13 @@ Attrition Rate (%) = (Number of Employees Who Left / Total Number of Em
 - I put my data into a Table, removed all the formulaes by pasting real values and added it to a data model.
 - I noticed my pivot Table was showing blank whereas i do not have any blank row; Solution applied was clean(trim(Cell))
 
+## Dashboard
+			
+Total Number of Employees		Attrition Rate
+	1470	                         16%	  
+
+  [WA_Fn-UseC_-HR-Employee-Attrition analysis.xlsx](https://github.com/user-attachments/files/17925561/WA_Fn-UseC_-HR-Employee-Attrition.analysis.xlsx)
+
 
 
 
